@@ -1,2 +1,2 @@
-# potret-api
-REST API untuk aplikasi potret banten
+# Potret Banten API
+REST API untuk aplikasi Potret Banten

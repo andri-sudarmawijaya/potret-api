@@ -1,5 +1,5 @@
 {
-  "description": "REST Server API untuk aplikasi potret banten",
+  "description": "REST Server API untuk aplikasi Potret Banten",
   "name": "bantenprov/potret-api",
   "type": "library",
   "homepage": "https://github.com/bantenprov/potret-api",

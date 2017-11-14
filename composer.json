@@ -1,0 +1,21 @@
+{
+  "description": "REST Server API untuk aplikasi potret banten",
+  "name": "bantenprov/potret-api",
+  "type": "library",
+  "homepage": "https://github.com/bantenprov/potret-api",
+  "authors": [
+    {
+      "name": "bantenprov",
+      "email": "developer.bantenprov@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/bantenprov/potret-api,"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "bantenprov/potret": "1.0.*"
+  }
+}
